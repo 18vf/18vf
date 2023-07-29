@@ -41,7 +41,6 @@
  <div>
    
 
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=18vf&theme=tokyonight&show_icons=true">
    
    
  </div>
